@@ -12,7 +12,7 @@ const Footer = () => {
     },
     {
       name: 'LinkedIn',
-      url: 'https://linkedin.com/in/yourprofile',
+      url: 'https://www.linkedin.com/in/yashoda-kalhara-bb4594306',
       icon: Linkedin,
       label: 'Connect with me on LinkedIn'
     },

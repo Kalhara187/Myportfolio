@@ -25,8 +25,8 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       title: 'Email',
-      value: 'kalhara8997@gmail.com',
-      link: 'mailto:your.email@example.com'
+      value: 'yashodakalhara187@gmail.com',
+      link: 'mailto:yashodakalhara187@gmail.com'
     },
     {
       icon: <Github className="w-6 h-6" />,
@@ -37,8 +37,8 @@ const Contact = () => {
     {
       icon: <Linkedin className="w-6 h-6" />,
       title: 'LinkedIn',
-      value: 'linkedin.com/in/yourprofile',
-      link: 'https://linkedin.com/in/yourprofile'
+      value: 'linkedin.com/in/yashoda-kalhara-bb4594306',
+      link: 'https://www.linkedin.com/in/yashoda-kalhara-bb4594306'
     }
   ];
 

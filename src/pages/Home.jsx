@@ -119,7 +119,7 @@ const Home = () => {
               <Github size={24} />
             </a>
             <a
-              href="https://linkedin.com/in/yourprofile"
+              href="https://www.linkedin.com/in/yashoda-kalhara-bb4594306"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-white shadow-md hover:shadow-lg transition-all duration-200 hover:-translate-y-1 text-neutral-700 hover:text-primary-600"
